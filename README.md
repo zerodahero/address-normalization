@@ -1,6 +1,6 @@
 # Basic Address Normalizer
 
-[![Build Status](https://travis-ci.org/zerodahero/address-normalization.svg?branch=master)](https://travis-ci.org/zerodahero/address-normalization)
+[![Build Status]https://github.com/zerodahero/address-normalization/actions/workflows/php.yml/badge.svg]
 
 ## Purpose
 
